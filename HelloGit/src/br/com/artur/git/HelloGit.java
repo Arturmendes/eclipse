@@ -11,6 +11,7 @@ public class HelloGit {
 		System.out.println("Artur Mendes Santos");
 		System.out.println("outro Teste");
 		//Alteração Online direto do GitHub
+		//Alterado no Eclipse
 	}
 
 }
