@@ -10,7 +10,7 @@ public class HelloGit {
 		System.out.println("Hello Git");
 		System.out.println("Artur Mendes Santos");
 		System.out.println("outro Teste");
-		//Alteração Online direto do GitHub
+		//AlteraÃ§Ã£o Online direto do GitHub
 		//Alterado no Eclipse
 	}
 
